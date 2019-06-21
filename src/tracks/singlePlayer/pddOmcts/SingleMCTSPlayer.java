@@ -57,10 +57,8 @@ public class SingleMCTSPlayer
 		//Determine the best action to take and return it.
 		// TODO: Compare with mostVisitedAction
 		int action;
-		if(Agent.NAIVE_PLANNING)
-			action = rootNode.bestActionNaive();
-		else
-			action = rootNode.bestActionLearning();
+		action = rootNode.bestActionNaive();
+//		System.out.print(rootNode.print(10));
 		//int action = rootNode.mostVisitedAction();
 		return action;
 	}

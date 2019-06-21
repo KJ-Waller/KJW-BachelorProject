@@ -18,19 +18,20 @@ import java.lang.Double;
  * and shoots then */
 public class GoToNearestSpriteOfItypeOption extends GoToMovableOption implements Serializable
 {
-	public GoToNearestSpriteOfItypeOption(double gamma, Lib.GETTER_TYPE type, 
+	public final int OPTION_NUM = 3;
+	public GoToNearestSpriteOfItypeOption(double gamma_d, double gamma_p, Lib.GETTER_TYPE type,
 			int itype, StateObservation so)
 	{
-		super(gamma, type, itype, -1, so);
+		super(gamma_d, gamma_p, type, itype, -1, so);
 	}
 
 	/** Constructor mainly for use by copy. By supplying the current goal
 	 * position, the need for a StateObservation vanishes. */
-	public GoToNearestSpriteOfItypeOption(double gamma, int step, double cumulativeReward,
+	public GoToNearestSpriteOfItypeOption(double gamma_d, double gamma_p, int step, double cumulativeReward,
 			Lib.GETTER_TYPE type, int itype,
 			SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma, step, cumulativeReward, type, itype, -1, goal);
+		super(gamma_d, gamma_p, step, cumulativeReward, type, itype, -1, goal);
 	}
 
 	/** Returns the location of the thing that is tracked, based on type, itype
@@ -50,7 +51,7 @@ public class GoToNearestSpriteOfItypeOption extends GoToMovableOption implements
 	@Override
 	public Option copy()
 	{
-		return new GoToNearestSpriteOfItypeOption(gamma, step, cumulativeReward,
+		return new GoToNearestSpriteOfItypeOption(gamma_d, gamma_p, step, cumulativeReward,
 				type, itype, goal);
 	}
 

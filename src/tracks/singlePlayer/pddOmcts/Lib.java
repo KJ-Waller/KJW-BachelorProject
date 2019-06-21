@@ -171,7 +171,7 @@ public class Lib
 	{
 		for(Types.ACTIONS action : actions)
 		{
-			possibleOptions.add(new ActionOption(Agent.GAMMA, action));
+			possibleOptions.add(new ActionOption(Agent.GAMMA_D[0], Agent.GAMMA_P[0], action));
 		}
 	}
 
@@ -183,7 +183,7 @@ public class Lib
 			{
 				if(ao.size() > 0)
 				{
-					WaitAndShootOption o = new WaitAndShootOption(Agent.GAMMA, 
+					WaitAndShootOption o = new WaitAndShootOption(Agent.GAMMA_D[5], Agent.GAMMA_P[5],
 							ao.get(0).itype, range);
 					possibleOptionSet.add(o);
 				}
@@ -221,7 +221,7 @@ public class Lib
 				{
 					// Try to add non-walls to the possibleOptionSet
 					possibleOptionSet.add(new GoToNearestSpriteOfItypeOption(
-								Agent.GAMMA, type, itype, so));
+								Agent.GAMMA_D[3], Agent.GAMMA_P[3], type, itype, so));
 				}
 			}
 		}
@@ -257,7 +257,7 @@ public class Lib
 		Lib.setGoToNearestOptions(so, possibleOptionSet);
 
 		// anno should be added if there are NPCs and removed if there are none
-		AvoidNearestNpcOption anno = new AvoidNearestNpcOption(Agent.GAMMA);
+		AvoidNearestNpcOption anno = new AvoidNearestNpcOption(Agent.GAMMA_D[0], Agent.GAMMA_P[0]);
 		possibleOptionSet.add(anno);
 		if(so.getNPCPositions() == null)
 			possibleOptionSet.remove(anno);
@@ -343,16 +343,16 @@ public class Lib
 				// goToPosition
 				if(type == GETTER_TYPE.NPC || type == GETTER_TYPE.MOVABLE)
 				{
-					possibleOptionSet.add(new GoToMovableOption(Agent.GAMMA, 
+					possibleOptionSet.add(new GoToMovableOption(Agent.GAMMA_D[2], Agent.GAMMA_P[2],
 						type, observation.itype, observation.obsID, so));
-					possibleOptionSet.add(new GoNearMovableOption(Agent.GAMMA,
+					possibleOptionSet.add(new GoNearMovableOption(Agent.GAMMA_D[1], Agent.GAMMA_P[1],
 						type, observation.itype, observation.obsID, so));
 				}
 				else
 				{
-					possibleOptionSet.add(new GoToPositionOption(Agent.GAMMA, 
+					possibleOptionSet.add(new GoToPositionOption(Agent.GAMMA_D[4], Agent.GAMMA_P[4],
 						type, observation.itype, observation.obsID, so));
-					possibleOptionSet.add(new GoNearMovableOption(Agent.GAMMA,
+					possibleOptionSet.add(new GoNearMovableOption(Agent.GAMMA_D[1], Agent.GAMMA_P[1],
 						type, observation.itype, observation.obsID, so));
 				}
 			}

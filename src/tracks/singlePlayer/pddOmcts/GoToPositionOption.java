@@ -18,6 +18,8 @@ import java.util.ArrayList;
  */
 public class GoToPositionOption extends Option implements Serializable
 {
+	public final int OPTION_NUM = 4;
+
 	/** The goal position of this option */
 	protected SerializableTuple<Integer, Integer> goal;
 
@@ -36,33 +38,33 @@ public class GoToPositionOption extends Option implements Serializable
 		new ArrayList<SerializableTuple<Integer, Integer>>();
 
 	/** Initialize with a position to go to */
-	public GoToPositionOption(double gamma, 
+	public GoToPositionOption(double gamma_d, double gamma_p,
 			SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 		this.goal = goal;
 		this.goalIsSprite = false;
 	}
 
 	/** Initialize with a position to go to */
-	public GoToPositionOption(double gamma, int step, double cumulativeReward, SerializableTuple<Integer, Integer> goal)
+	public GoToPositionOption(double gamma_d, double gamma_p, int step, double cumulativeReward, SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma, step, cumulativeReward);
+		super(gamma_d, gamma_p, step, cumulativeReward);
 		this.goal = goal;
 		this.goalIsSprite = false;
 	}
 
 	/** Initialize with a position to go to. Goal is converted to block
 	 * coordinates */
-	public GoToPositionOption(double gamma, Vector2d goal)
+	public GoToPositionOption(double gamma_d, double gamma_p, Vector2d goal)
 	{
-		this(gamma, Agent.aStar.vectorToBlock(goal));
+		this(gamma_d, gamma_p, Agent.aStar.vectorToBlock(goal));
 	}
 
 	/** Initialize with something that has to be followed */
-	public GoToPositionOption(double gamma, Lib.GETTER_TYPE type, int itype, int obsID, StateObservation so)
+	public GoToPositionOption(double gamma_d, double gamma_p, Lib.GETTER_TYPE type, int itype, int obsID, StateObservation so)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 		this.type = type;
 		this.itype = itype;
 		this.obsID = obsID;
@@ -72,9 +74,9 @@ public class GoToPositionOption extends Option implements Serializable
 
 	/** Initialize with something that has to be followed, including setting the
 	 * goal location (so no StateObservation is needed) */
-	public GoToPositionOption(double gamma, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
+	public GoToPositionOption(double gamma_d, double gamma_p, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 		this.type = type;
 		this.itype = itype;
 		this.obsID = obsID;
@@ -84,9 +86,9 @@ public class GoToPositionOption extends Option implements Serializable
 		this.goalIsSprite = true;
 	}
 
-	public GoToPositionOption(double gamma, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
+	public GoToPositionOption(double gamma_d, double gamma_p, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma, step, cumulativeReward);
+		super(gamma_d, gamma_p, step, cumulativeReward);
 		this.type = type;
 		this.itype = itype;
 		this.obsID = obsID;
@@ -100,9 +102,9 @@ public class GoToPositionOption extends Option implements Serializable
 	 * WARNING: Don't expect to be able to use the hashCode variable from this class.
 	 * That means you'd have to override hashCode() from this class as well!
 	 */
-	protected GoToPositionOption(double gamma)
+	protected GoToPositionOption(double gamma_d, double gamma_p, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 		System.out.println("WARNING! Using empty constructor in " + this);
 		this.currentPath = new ArrayList<SerializableTuple<Integer, Integer>>();
 	}
@@ -297,11 +299,11 @@ public class GoToPositionOption extends Option implements Serializable
 	public Option copy()
 	{
 		if(this.type != null)
-			return new GoToPositionOption(gamma, step, cumulativeReward, type, itype, obsID, goal);
+			return new GoToPositionOption(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 		else
 		{
 			System.out.println("WARNING! Type = null!");
-			return new GoToPositionOption(gamma, step, cumulativeReward, goal);
+			return new GoToPositionOption(gamma_d, gamma_p, step, cumulativeReward, goal);
 		}
 	}
 

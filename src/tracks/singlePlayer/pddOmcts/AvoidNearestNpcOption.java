@@ -18,9 +18,11 @@ import java.lang.Double;
  * and shoots then */
 public class AvoidNearestNpcOption extends Option implements Serializable
 {
-	public AvoidNearestNpcOption(double gamma)
+	public final int OPTION_NUM = 0;
+
+	public AvoidNearestNpcOption(double gamma_d, double gamma_p)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 	}
 
 	/** Move away from nearest NPC */
@@ -61,7 +63,7 @@ public class AvoidNearestNpcOption extends Option implements Serializable
 
 	public Option copy()
 	{
-		return new AvoidNearestNpcOption(this.gamma);
+		return new AvoidNearestNpcOption(this.gamma_d, this.gamma_p);
 	}
 
 	@Override

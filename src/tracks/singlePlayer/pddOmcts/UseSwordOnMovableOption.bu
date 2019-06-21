@@ -18,21 +18,21 @@ import java.util.ArrayList;
  */
 public class UseSwordOnMovableOption extends GoToMovableOption implements Serializable
 {
-	public UseSwordOnMovableOption(double gamma, Lib.GETTER_TYPE type, int itype, int obsID, StateObservation so)
+	public UseSwordOnMovableOption(double gamma_d, double gamma_p Lib.GETTER_TYPE type, int itype, int obsID, StateObservation so)
 	{
-		super(gamma, type, itype, obsID, so);
+		super(gamma_d, gamma_p, type, itype, obsID, so);
 	}
 
 	/** Copy constructor */
-	public UseSwordOnMovableOption(double gamma, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
+	public UseSwordOnMovableOption(double gamma_d, double gamma_p, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma, step, cumulativeReward, type, itype, obsID, goal);
+		super(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 	}
 
 	@Override
 	public Option copy()
 	{
-		return new UseSwordOnMovableOption(gamma, step, cumulativeReward, type, itype, obsID, goal);
+		return new UseSwordOnMovableOption(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class SingleTreeNode
 	 * for the optionRanking. Mean reward works well in games where 1 option is
 	 * the best option. In games where a combination of options has to be used,
 	 * this option should be false */
-	public static boolean USE_MEAN_REWARD = true;
+	public static boolean USE_MEAN_REWARD = false;
 
 	/** Decides weather rollouts are done at random, or following options */
 	public static boolean RANDOM_ROLLOUT = false;
@@ -119,14 +119,16 @@ public class SingleTreeNode
 		// Create the possibility of chosing new options
 		if(chosenOption == null || chosenOption.isFinished(state))
 		{
-			this.chosenOptionFinished = true;
+			if (this.parent == null) {
+				this.chosenOptionFinished = false;
+			} else {
+				this.chosenOptionFinished = true;
+			}
 			// FIXME: Should this be removed or not!??!?!!
 			// Update the option ranking if needed
 			if(chosenOption != null && chosenOption.isFinished(state))
 			{
-				if(this.USE_MEAN_REWARD)
-					chosenOption.updateOptionRanking();
-				else if(parent != null)
+				if(parent != null)
 					parent.setOptionFinished(chosenOption);
 			}
 			children = new SingleTreeNode[possibleOptions.size()];
@@ -154,16 +156,16 @@ public class SingleTreeNode
 		ElapsedCpuTimer elapsedTimerIteration;
 		while(remaining > 3 * avgTimeTaken && remaining > REMAINING_LIMIT)
 		{
+//			if (numIters > 20) {
+//				System.out.println("test");
+//			}
 			elapsedTimerIteration = new ElapsedCpuTimer();
 
 			// Select the node to explore (either expanding unexpanded node, or
 			// selecting the best one with UCT or crazyStone)
 			//System.out.printf("Remaining before treePolicy: %d\n", elapsedTimer.remainingTimeMillis());
-			SingleTreeNode selected; 
-			if(Agent.NAIVE_PLANNING)
-				selected = treePolicyNaive();
-			else
-				selected = treePolicyCrazyStone();
+			SingleTreeNode selected;
+			selected = treePolicyNaive();
 
 			// Get node value using a max-depth rollout
 			//System.out.printf("Remaining before rollOut: %d\n", elapsedTimer.remainingTimeMillis());
@@ -181,64 +183,6 @@ public class SingleTreeNode
 			remaining = elapsedTimer.remainingTimeMillis();
 
 		}
-		// This is the rootnode, because where else would this function be
-		// called!?!! So here we call setCumulativeRewardsForChildren, if needed
-		if(!Agent.NAIVE_PLANNING)
-			setCumulativeRewardsForChildren();
-	}
-
-	/** For each child, set its chosen options cumulative reward to the totValue
-	 * of that child node. */
-	public void setCumulativeRewardsForChildren()
-	{
-		// This isn't needed if USE_MEAN_REWARD is true, the reward is then set
-		// all over this file
-		if(SingleTreeNode.USE_MEAN_REWARD)
-			return;
-		Option o;
-		for(SingleTreeNode c : this.children)
-		{
-			if(c != null)
-			{
-				if(c.optionFinished)
-				{
-					o = c.getChosenOption();
-					o.setCumulativeReward(c.totValue/(c.nVisits + this.epsilon));
-					o.updateOptionRanking();
-					//System.out.println("Setting value for option " + o + " to " + c.totValue / (c.nVisits + this.epsilon));
-				}
-			}
-		}
-	}
-
-	/** Expand the current treenode, if it's not fully expanded. Else, return
-	 * the best node using uct
-	 */
-	public SingleTreeNode treePolicyCrazyStone() 
-	{
-		SingleTreeNode cur = this;
-		SingleTreeNode next;
-		while (!cur.state.isGameOver() && cur.nodeDepth < Agent.ROLLOUT_DEPTH)
-		{
-			if(cur.nVisits < UCT_START_VISITS)
-			{
-				next = cur.crazyStone();
-				// If we have expanded, return the new node for rollouts
-				if(next.expanded)
-				{
-					// Also reset expanded to false
-					next.expanded = false;
-					return next;
-				}
-			}
-			// Else: continue with this node
-			else
-			{
-				next = cur.uct();
-			}
-			cur = next;
-		}
-		return cur;
 	}
 
 	public SingleTreeNode treePolicyNaive()
@@ -292,13 +236,7 @@ public class SingleTreeNode
 		// Step 1: Follow the option:
 		nextState.advance(action);
 		// Step 2: Update the option's values:
-		if(USE_MEAN_REWARD)
-		{
-			nextOption.addReward(nextState.getGameScore() - state.getGameScore());
-			if(nextOption.isFinished(nextState) && !Agent.NAIVE_PLANNING)
-				nextOption.updateOptionRanking();
-		}
-		else if(nextOption.isFinished(nextState) && this.parent != null)
+		if(nextOption.isFinished(nextState) && this.parent != null)
 		{
 			this.parent.setOptionFinished(nextOption);
 		}
@@ -315,87 +253,6 @@ public class SingleTreeNode
 		Agent.aStar.setLastObservationGrid(nextState.getObservationGrid());
 		Agent.aStar.checkForWalls(state, action, nextState);
 		return tn;
-	}
-
-	/** Choses a child node using the crazy stone algorithm, following
-	 * "Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search",
-	 * Coulom 2006. The mu and sigma are not calculated as in the paper, because
-	 * this is not a game of go. */
-	public SingleTreeNode crazyStone()
-	{
-		// For speeding up the situation where an option is being followed, and
-		// just 1 child exists
-		if(!chosenOptionFinished)
-		{
-			if(this.children[0] == null)
-			{
-				this.expandChild(0, chosenOption);
-			}
-			return this.children[0];
-		}
-
-		double N = this.possibleOptions.size();
-		int selectedId = 0;
-		double[] probs = new double[(int) N];
-		double probsSum = 0;
-		int agentOptionIndex = -1;
-		double alpha;
-		if(agentOption != null)
-		{
-			agentOptionIndex = possibleOptions.indexOf(agentOption);
-		}
-		//System.out.println("Possible options (in order): " + possibleOptions);
-		for(int i = 0; i < N; i++)
-		{
-			Option o = this.possibleOptions.get(i);
-			// The second equation in sect. 3.2:
-			// It is possible to add an alpha value here, increasing the
-			// probability of it being chosen. The formula would become this:
-			// (0.1 + Math.pow(2, (-i)) + alpha) / N
-			// alpha being 1 if something good's going on, and 0 otherwise.
-			// Alpha is now 1 when the agent is already following this option.
-			// This encourages the tree search to explore the agent's current
-			// option
-			if(i == agentOptionIndex)
-				alpha = 1;
-			else
-				alpha = 0;
-			double paperEpsilon = (0.1 + Math.pow(2, (-i)) + alpha) / N;
-			// Prepare values for the next equation
-			//double mu = Utils.normalise(Agent.optionRanking.get(o.getType()), muLast, mu0);
-			double mu = Agent.optionRanking.get(o.getType());
-			double sigma = Agent.optionRankingVariance.get(o.getType());
-
-			// The first equation in sect. 3.2:
-			probs[i] = Math.exp(-STEEPNESS * (
-						//(1 - mu) /
-						(mu0 - mu) /
-						(Math.sqrt(2 * (sigma0 + sigma)) + this.epsilon)) 
-					+ paperEpsilon);
-			probsSum += probs[i];
-			//System.out.printf("\nMu0: %f\nMu: %f\nSigma0: %f\nSigma: %f\nespilon: %f\n\n",
-			//		mu0, mu, sigma0, sigma, paperEpsilon);
-			//System.out.println("Prob for option '" + o + "' is '" + probs[i] + "'");
-		}
-		//System.out.println("\n\n");
-		// Get the randomly selected best id to expand/select
-		selectedId = Lib.weightedRandomIndex(random, probs, probsSum);
-
-		// The return-variable
-		SingleTreeNode selected;
-
-		// Check if the selected option is already expanded, if not, expand
-		// first, then return the child
-		if(children[selectedId] == null)
-		{
-			Option nextOption = this.possibleOptions.get(selectedId).copy();
-			selected = this.expandChild(selectedId, nextOption);
-		}
-		else
-		{
-			selected = children[selectedId];
-		}
-		return selected;
 	}
 
 	public SingleTreeNode uct()
@@ -451,8 +308,6 @@ public class SingleTreeNode
 		// loss respectively
 		//TODO: Check if this is needed
 		double scoreExtra = 10.;
-		if(USE_MEAN_REWARD)
-			scoreExtra = 100;
 		// Save copy-time when RANDOM_ROLLOUT is true
 		if(chosenOption != null && !RANDOM_ROLLOUT)
 			rollerOption = chosenOption.copy();
@@ -480,9 +335,7 @@ public class SingleTreeNode
 				// If the option is finished, update the Agent's option ranking
 				if(rollerOption.isFinished(rollerState))
 				{
-					if(USE_MEAN_REWARD)
-						rollerOption.updateOptionRanking();
-					else if(this.parent != null)
+					if(this.parent != null)
 						parent.setOptionFinished(rollerOption);
 					rollerOptionFinished = true;
 				}
@@ -491,8 +344,6 @@ public class SingleTreeNode
 				rollerState.advance(action);
 				// Update the option's reward
 				//rollerOption.addReward(Lib.simpleValue(rollerState) - lastScore);
-				if(USE_MEAN_REWARD)
-					rollerOption.addReward(rollerState.getGameScore() - score);
 			}
 			else
 			{
@@ -515,13 +366,47 @@ public class SingleTreeNode
 		return false;
 	}
 
+	// Here, gamma_p and gamma_d is used, where gamma_p > gamma_r
+	// Returns
+	public SingleTreeNode optionBackUp(SingleTreeNode node, double result, int furthestDepth) {
+		double accValue = 0;
+		int numIters = 0;
+		SingleTreeNode n = node;
+
+		while(n.parent.chosenOption != null) {
+			accValue += Math.pow(n.chosenOption.gamma_p, furthestDepth - n.nodeDepth) * result;
+			n.nVisits++;
+			n = n.parent;
+			numIters++;
+		}
+
+		if (numIters > 0) {
+			n.totValue += Math.pow(n.chosenOption.gamma_d, furthestDepth - n.nodeDepth) * accValue;
+		} else {
+			n.totValue += Math.pow(Agent.GAMMA_R, furthestDepth - n.nodeDepth) * result;
+		}
+
+		n.nVisits++;
+
+		return n;
+	}
+
+	// Regular gamma_r is used here, where gamma_r < gamma_p
 	public void backUp(SingleTreeNode node, double result, int furthestDepth)
 	{
 		SingleTreeNode n = node;
+
 		while(n != null)
 		{
-			n.nVisits++;
-			n.totValue += Math.pow(Agent.GAMMA, furthestDepth - n.nodeDepth) * result;
+			if (n.chosenOptionFinished) {
+				n = optionBackUp(n, result, furthestDepth);
+//				n.totValue += (Math.pow(Agent.GAMMA_A, furthestDepth - n.nodeDepth) * result) * n.chosenOption.gamma;
+			} else {
+				n.nVisits++;
+				n.totValue += (Math.pow(Agent.GAMMA_R, furthestDepth - n.nodeDepth) * result);
+			}
+//			n.totValue += (Math.pow(Agent.GAMMA, furthestDepth - n.nodeDepth) * result) * n.chosenOption.gamma;
+//			n.totValue += (Math.pow(Agent.GAMMA, furthestDepth - n.nodeDepth) * result);
 			n = n.parent;
 		}
 	}
@@ -561,10 +446,7 @@ public class SingleTreeNode
 		else if(allEqual)
 		{
 			//If all are equal, we opt to choose for the one with the best Q.
-			if(Agent.NAIVE_PLANNING)
-				selected = bestActionNaive();
-			else
-				selected = bestActionLearning();
+			selected = bestActionNaive();
 		}
 		return selected;
 	}
@@ -583,47 +465,6 @@ public class SingleTreeNode
 				{
 					bestValue = childValue;
 					selected = i;
-				}
-			}
-		}
-		if (selected == -1)
-		{
-			System.out.println("Unexpected selection!");
-			selected = 0;
-		}
-		return selected;
-	}
-
-	public int bestActionLearning()
-	{
-		int selected = -1;
-		double bestValue = -Double.MAX_VALUE;
-		double bestOptionValue = -Double.MAX_VALUE;
-		for (int i=0; i<children.length; i++) 
-		{
-			if(children[i] != null) 
-			{
-				double childValue = children[i].totValue / (children[i].nVisits + this.epsilon);
-				double optionValue = Agent.optionRanking.get(
-						this.possibleOptions.get(i).getType());
-				//break ties randomly
-				optionValue = Utils.noise(
-						optionValue, this.epsilon, this.random.nextDouble());
-				// Go for the best child value
-				if (childValue > bestValue)
-				{
-					bestValue = childValue;
-					bestOptionValue = optionValue;
-					selected = i;
-				}
-				// But break ties using optionValue.
-				else if(childValue == bestValue)
-				{
-					if(optionValue > bestOptionValue)
-					{
-						selected = i;
-						bestOptionValue = optionValue;
-					}
 				}
 			}
 		}

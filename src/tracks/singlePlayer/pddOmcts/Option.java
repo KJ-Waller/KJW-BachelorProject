@@ -15,7 +15,8 @@ import java.util.Comparator;
  * approach to reinforcement learning */
 public abstract class Option implements Serializable
 {
-	protected double gamma;
+	protected double gamma_d;
+	protected double gamma_p;
 	protected int step;
 	protected double cumulativeReward;
 
@@ -36,16 +37,18 @@ public abstract class Option implements Serializable
 	public static OptionComparator optionComparator = new OptionComparator();
 
 	/** Default constructor, creates option, instantiates variables */
-	public Option(double gamma)
+	public Option(double gamma_d, double gamma_p)
 	{
-		this.gamma = gamma;
+		this.gamma_d = gamma_d;
+		this.gamma_p = gamma_p;
 		this.step = 0;
 		this.cumulativeReward = 0;
 	}
 
-	public Option(double gamma, int step, double cumulativeReward)
+	public Option(double gamma_d, double gamma_p, int step, double cumulativeReward)
 	{
-		this.gamma = gamma;
+		this.gamma_d = gamma_d;
+		this.gamma_p = gamma_p;
 		this.step = step;
 		this.cumulativeReward = cumulativeReward;
 	}
@@ -107,42 +110,11 @@ public abstract class Option implements Serializable
 
 	public abstract Option copy();
 
-	/** Adds (discounted) reward to the cumulative reward. No need to discount
-	 * in advance, that's done by this function */
-	public void addReward(double reward)
-	{
-		if(step == 0)
-			System.out.printf("WARNING! Adding reward to option that hasn't done anything yet! %s\n", this);
-		this.cumulativeReward += Math.pow(gamma, step-1) * reward;
-	}
-
 	/** If your algorithm thinks it knows better how to set the cumulative
 	 * reward, use this. */
 	public void setCumulativeReward(double cumulativeReward)
 	{
 		this.cumulativeReward = cumulativeReward;
-	}
-
-	/** Updates Agent.optionRanking with the current (discounted) cumulative
-	 * reward of the option. This should always be done when an option is
-	 * finished, so setFinished() is called in the end. 
-	 */
-	public void updateOptionRanking()
-	{
-		String type = this.getType();
-		// From https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance#Online_algorithm
-		double x = getReward();
-		double n = Agent.optionRankingD.get(type) + 1;
-		double mean = Agent.optionRanking.get(type);
-		double delta = x - mean;
-		mean += delta / n;
-		double M2 = (Agent.optionRankingVariance.get(type) * (n-1)) + delta * (x - mean);
-
-		// Save the values
-		Agent.optionRankingD.put(type, n);
-		Agent.optionRanking.put(type, mean);
-		Agent.optionRankingVariance.put(type, M2/n);
-		setFinished();
 	}
 
 	public double getReward()

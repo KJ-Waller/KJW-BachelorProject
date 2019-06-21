@@ -19,22 +19,23 @@ public class GoNearMovableOption extends GoToMovableOption implements Serializab
 {
 	/** How near is "near" (in path size) */
 	public final int THRESHOLD = 3;
+	public final int OPTION_NUM = 1;
 
-	public GoNearMovableOption(double gamma, Lib.GETTER_TYPE type, int itype, int obsID, StateObservation so)
+	public GoNearMovableOption(double gamma_d, double gamma_p, Lib.GETTER_TYPE type, int itype, int obsID, StateObservation so)
 	{
-		super(gamma, type, itype, obsID, so);
+		super(gamma_d, gamma_p, type, itype, obsID, so);
 	}
 
 	/** Copy constructor */
-	public GoNearMovableOption(double gamma, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
+	public GoNearMovableOption(double gamma_d, double gamma_p, int step, double cumulativeReward, Lib.GETTER_TYPE type, int itype, int obsID, SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma, step, cumulativeReward, type, itype, obsID, goal);
+		super(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 	}
 
 	@Override
 	public Option copy()
 	{
-		return new GoNearMovableOption(gamma, step, cumulativeReward, type, itype, obsID, goal);
+		return new GoNearMovableOption(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 	}
 
 	@Override

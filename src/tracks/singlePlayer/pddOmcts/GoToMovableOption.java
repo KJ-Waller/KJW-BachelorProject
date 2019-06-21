@@ -17,20 +17,21 @@ import java.util.ArrayList;
  */
 public class GoToMovableOption extends GoToPositionOption implements Serializable
 {
+	public final int OPTION_NUM = 2;
 
-	public GoToMovableOption(double gamma, Lib.GETTER_TYPE type, int itype, 
+	public GoToMovableOption(double gamma_d, double gamma_p, Lib.GETTER_TYPE type, int itype,
 			int obsID, StateObservation so)
 	{
-		super(gamma, type, itype, obsID, so);
+		super(gamma_d, gamma_p, type, itype, obsID, so);
 	}
 
 	/** Constructor mainly for use by copy. By supplying the current goal
 	 * position, the need for a StateObservation vanishes. */
-	public GoToMovableOption(double gamma, int step, double cumulativeReward,
+	public GoToMovableOption(double gamma_d, double gamma_p , int step, double cumulativeReward,
 			Lib.GETTER_TYPE type, int itype, int obsID,
 			SerializableTuple<Integer, Integer> goal)
 	{
-		super(gamma, step, cumulativeReward, type, itype, obsID, goal);
+		super(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 	}
 
 	/** Returns the next action to get to this.goal. Only plans a new path if
@@ -80,7 +81,7 @@ public class GoToMovableOption extends GoToPositionOption implements Serializabl
 	@Override
 	public Option copy()
 	{
-		return new GoToMovableOption(gamma, step, cumulativeReward, type, itype, obsID, goal);
+		return new GoToMovableOption(gamma_d, gamma_p, step, cumulativeReward, type, itype, obsID, goal);
 	}
 
 	@Override

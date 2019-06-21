@@ -15,16 +15,16 @@ public class ActionOption extends Option implements Serializable
 	/** The action that will (always) be taken by this option */
 	private Types.ACTIONS action;
 
-	public ActionOption(double gamma, Types.ACTIONS action)
+	public ActionOption(double gamma_d, double gamma_p, Types.ACTIONS action)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 		this.action = action;
 	}
 
 	/** Copy constructor */
-	public ActionOption(double gamma, int step, double cumulativeReward, Types.ACTIONS action)
+	public ActionOption(double gamma_d, double gamma_p, int step, double cumulativeReward, Types.ACTIONS action)
 	{
-		super(gamma, step, cumulativeReward);
+		super(gamma_d, gamma_p, step, cumulativeReward);
 		this.action = action;
 	}
 
@@ -77,7 +77,7 @@ public class ActionOption extends Option implements Serializable
 	@Override
 	public Option copy()
 	{
-		return new ActionOption(gamma, step, cumulativeReward, action);
+		return new ActionOption(gamma_d, gamma_p, step, cumulativeReward, action);
 	}
 
 	public String toString()

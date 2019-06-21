@@ -23,14 +23,15 @@ public class WaitAndShootOption extends Option implements Serializable
 	 * oriented in (so the agent is looking right, across the x-axis, the enemy
 	 * would have to be _range_ steps away on the y-axis
 	 */
+	public final int OPTION_NUM = 5;
 	private int range = 0;
 
 	/** This option works for this kind of sprite */
 	private int itype;
 
-	public WaitAndShootOption(double gamma, int itype, int range)
+	public WaitAndShootOption(double gamma_d, double gamma_p, int itype, int range)
 	{
-		super(gamma);
+		super(gamma_d, gamma_p);
 		this.range = range;
 		this.itype = itype;
 	}
@@ -107,7 +108,7 @@ public class WaitAndShootOption extends Option implements Serializable
 
 	public Option copy()
 	{
-		return new WaitAndShootOption(this.gamma, this.itype, this.range);
+		return new WaitAndShootOption(this.gamma_d, this.gamma_p, this.itype, this.range);
 	}
 
 	@Override

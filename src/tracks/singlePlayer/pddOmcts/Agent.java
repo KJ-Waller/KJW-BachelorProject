@@ -29,7 +29,9 @@ public class Agent extends AbstractPlayer {
 	public static int ROLLOUT_DEPTH = 70;
 
 	/** The gamma of this algorithm */
-	public static double GAMMA = .9;
+	public static double GAMMA_R = .8;
+	public static double[] GAMMA_D = {.9, .8, .85, .8, .95, .9, .9, .9, .9, .9};
+	public static double[] GAMMA_P = {.95, .95, .95, .95, .95, .85, 1, 1, 1, 1};
 
 	/** If this is true, no learning about options is done */
 	public static boolean NAIVE_PLANNING = true;
