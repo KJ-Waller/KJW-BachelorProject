@@ -156,9 +156,6 @@ public class SingleTreeNode
 		ElapsedCpuTimer elapsedTimerIteration;
 		while(remaining > 3 * avgTimeTaken && remaining > REMAINING_LIMIT)
 		{
-//			if (numIters > 20) {
-//				System.out.println("test");
-//			}
 			elapsedTimerIteration = new ElapsedCpuTimer();
 
 			// Select the node to explore (either expanding unexpanded node, or

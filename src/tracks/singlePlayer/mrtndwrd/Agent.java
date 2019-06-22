@@ -110,7 +110,7 @@ public class Agent extends AbstractPlayer {
 		}
 		else
 		{
-			System.out.println("No option ranking loaded");
+//			System.out.println("No option ranking loaded");
 			optionRankingVariance = new DefaultHashMap<String, Double>(1000.);
 			optionRankingD = new DefaultHashMap<String, Double>(0.);
 			optionRanking = new DefaultHashMap<String, Double>(0.);

@@ -154,11 +154,6 @@ public class SingleTreeNode
 		ElapsedCpuTimer elapsedTimerIteration;
 		while(remaining > 3 * avgTimeTaken && remaining > REMAINING_LIMIT)
 		{
-
-			//TODO: Remove this
-			if (numIters > 50) {
-				System.out.println("test");
-			}
 			elapsedTimerIteration = new ElapsedCpuTimer();
 
 			// Select the node to explore (either expanding unexpanded node, or
@@ -523,9 +518,6 @@ public class SingleTreeNode
 	public void backUp(SingleTreeNode node, double result, int furthestDepth)
 	{
 		SingleTreeNode n = node;
-		if (n.nodeDepth > 3) {
-			System.out.println("test");
-		}
 		while(n != null)
 		{
 			n.nVisits++;
