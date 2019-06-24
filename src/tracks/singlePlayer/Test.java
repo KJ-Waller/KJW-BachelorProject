@@ -27,6 +27,7 @@ public class Test {
 		String sampleOMCTSController = "tracks.singlePlayer.mrtndwrd.Agent";
 		String samplepddOMCTSController = "tracks.singlePlayer.pddOmcts.Agent";
 		String[] controllers = {sampleMCTSController, sampleOMCTSController, samplepddOMCTSController};
+//		String[] controllers = {samplepddOMCTSController};
 
 		//Load available games
 //		String spGamesCollection =  "examples/all_games_sp.csv";
@@ -36,9 +37,13 @@ public class Test {
 //		String games[] = new String[]{"camelRace", "digdug", "firestorms", "infection", "firecaster",
 //				"overload", "pacman", "seaquest", "whackamole", "eggomania", "zelda"};
 
+		// Old list of games to train on
+//		String games[] = new String[]{"surround", "infection", "butterflies", "missilecommand", "aliens", "plaqueattack", "plants", "bait", "camelRace", "survivezombies", "seaquest",
+//				"jaws","frogs","pacman","firestorms","lemmings","boulderdash","overload","boloadventures","roguelike","firecaster","boulderchase","zelda","chase","digdug","eggomania","portals"};
 
-		String games[] = new String[]{"surround", "infection", "butterflies", "missilecommand", "aliens", "plaqueattack", "plants", "bait", "camelRace", "survivezombies", "seaquest",
-				"jaws","frogs","pacman","firestorms","lemmings","boulderdash","overload","boloadventures","roguelike","firecaster","boulderchase","zelda","chase","digdug","eggomania","portals"};
+		// New List of games to train on
+		String games[] = new String[]{"surround", "infection", "butterflies", "missilecommand", "camelRace", "seaquest", "frogs","pacman","overload", "roguelike","zelda","chase","eggomania","portals"};
+
 
 		//Game and level to play
 		int gameIdx = 4;
@@ -47,8 +52,8 @@ public class Test {
 		String level1 = "examples/gridphysics/" + games[gameIdx] + "_lvl" + levelIdx +".txt";
 
 		//Game settings
-		boolean visuals = true;
-		int seed = new Random().nextInt();
+//		boolean visuals = true;
+//		int seed = new Random().nextInt();
 
 		// Game and level to play
 //		int gameIdx = 0;
@@ -129,12 +134,20 @@ public class Test {
 		String[] actionFiles = new String[L*M];
 		for (int l = 0; l < controllers.length; l++) {
 			controller = controllers[l];
-			System.out.println("Conteroller: " + controller);
+			System.out.println("Controller: " + controller);
+
+			if (controller == sampleMCTSController) {
+				games = new String[]{"surround", "infection", "missilecommand", "camelRace", "seaquest", "frogs","pacman"};
+			} else if (controller == sampleOMCTSController) {
+				games = new String[]{"roguelike","zelda","chase","eggomania","portals"};
+			} else if (controller == samplepddOMCTSController) {
+				games = new String[]{"zelda","chase","eggomania","portals","roguelike"};
+			}
 
 			for(int i = 0; i < N; ++i)
 			{
 				int actionIdx = 0;
-				game = "examples/gridphysics/" + games[i] + ".txt";;
+				game = "examples/gridphysics/" + games[i] + ".txt";
 				gameName = games[i];
 				System.out.println("Game played: " + gameName);
 				for(int j = 0; j < L; ++j){
@@ -142,7 +155,6 @@ public class Test {
 					if(saveActions) for(int k = 0; k < M; ++k)
 						actionFiles[actionIdx++] = "actions_game_" + i + "_level_" + j + "_" + k + ".txt";
 				}
-				System.out.println("Level: " + levels);
 				ArcadeMachine.runGames(game, levels, M, controller, saveActions? actionFiles:null);
 			}
 		}
