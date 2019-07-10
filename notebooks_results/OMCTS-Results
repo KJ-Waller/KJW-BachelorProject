@@ -1,0 +1,3270 @@
+Conteroller: tracks.singlePlayer.mrtndwrd.Agent
+Game played: surround
+Level: [Ljava.lang.String;@14ae5a5
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:0
+Results in game examples/gridphysics/surround.txt, 1.0 , 1.0
+Game played: infection
+Level: [Ljava.lang.String;@14ae5a5
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:23.0, timesteps:801
+Result (1->win; 0->lose): Player0:1, Player0-Score:14.0, timesteps:735
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:17.0, timesteps:669
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:17.0, timesteps:338
+Result (1->win; 0->lose): Player0:1, Player0-Score:25.0, timesteps:287
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:23.0, timesteps:556
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:952
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:24.0, timesteps:510
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:378
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:13.0, timesteps:193
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:27.0, timesteps:877
+Result (1->win; 0->lose): Player0:1, Player0-Score:38.0, timesteps:1475
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:585
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:14.0, timesteps:308
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:558
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:400
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:13.0, timesteps:273
+Result (1->win; 0->lose): Player0:1, Player0-Score:12.0, timesteps:191
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:431
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:17.0, timesteps:313
+Result (1->win; 0->lose): Player0:1, Player0-Score:19.0, timesteps:527
+Result (1->win; 0->lose): Player0:1, Player0-Score:14.0, timesteps:488
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:527
+Result (1->win; 0->lose): Player0:1, Player0-Score:22.0, timesteps:413
+Result (1->win; 0->lose): Player0:1, Player0-Score:28.0, timesteps:585
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:394
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:390
+Result (1->win; 0->lose): Player0:1, Player0-Score:32.0, timesteps:718
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:588
+Result (1->win; 0->lose): Player0:1, Player0-Score:22.0, timesteps:637
+Result (1->win; 0->lose): Player0:1, Player0-Score:15.0, timesteps:356
+Result (1->win; 0->lose): Player0:1, Player0-Score:22.0, timesteps:431
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:600
+Result (1->win; 0->lose): Player0:1, Player0-Score:23.0, timesteps:661
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:385
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:22.0, timesteps:611
+Result (1->win; 0->lose): Player0:1, Player0-Score:30.0, timesteps:580
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:1182
+Result (1->win; 0->lose): Player0:1, Player0-Score:18.0, timesteps:621
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:331
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:373
+Result (1->win; 0->lose): Player0:1, Player0-Score:28.0, timesteps:829
+Result (1->win; 0->lose): Player0:1, Player0-Score:36.0, timesteps:724
+Result (1->win; 0->lose): Player0:1, Player0-Score:34.0, timesteps:663
+Result (1->win; 0->lose): Player0:1, Player0-Score:44.0, timesteps:658
+Result (1->win; 0->lose): Player0:1, Player0-Score:36.0, timesteps:707
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:627
+Result (1->win; 0->lose): Player0:1, Player0-Score:42.0, timesteps:835
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:320
+Result (1->win; 0->lose): Player0:1, Player0-Score:38.0, timesteps:1075
+Result (1->win; 0->lose): Player0:1, Player0-Score:36.0, timesteps:561
+Result (1->win; 0->lose): Player0:1, Player0-Score:31.0, timesteps:604
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:27.0, timesteps:891
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:394
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:522
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:17.0, timesteps:518
+Result (1->win; 0->lose): Player0:1, Player0-Score:19.0, timesteps:318
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:995
+Result (1->win; 0->lose): Player0:1, Player0-Score:28.0, timesteps:632
+Result (1->win; 0->lose): Player0:1, Player0-Score:28.0, timesteps:741
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:125
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:126
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:79
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:117
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:189
+Result (1->win; 0->lose): Player0:1, Player0-Score:14.0, timesteps:429
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:89
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:114
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:305
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:233
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:122
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:99
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:83
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:79
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:135
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:113
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:122
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:95
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:56
+Result (1->win; 0->lose): Player0:1, Player0-Score:18.0, timesteps:523
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:125
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:65
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:72
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:121
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:128
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:59
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:338
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:74
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:118
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:88
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:122
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:94
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:150
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:77
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:79
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:85
+Result (1->win; 0->lose): Player0:1, Player0-Score:3.0, timesteps:114
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:95
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:249
+Results in game examples/gridphysics/infection.txt, 1.0 , 15.33
+Game played: missilecommand
+Level: [Ljava.lang.String;@14ae5a5
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:104
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:81
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:108
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:79
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:72
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:105
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:77
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:84
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:86
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:80
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:106
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:97
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:113
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:153
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:123
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:125
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:117
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:132
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:96
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:114
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:121
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:102
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:91
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:80
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:125
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:107
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:116
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:73
+Result (1->win; 0->lose): Player0:1, Player0-Score:16.0, timesteps:107
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:109
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:62
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:74
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:96
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:77
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:96
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:94
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:98
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:48
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:102
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:93
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:126
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:101
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:81
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:104
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:89
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:130
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:70
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:52
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:77
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:97
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:113
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:70
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:73
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:114
+Result (1->win; 0->lose): Player0:0, Player0-Score:-2.0, timesteps:78
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:90
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:90
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:92
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:97
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:88
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:80
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:99
+Result (1->win; 0->lose): Player0:0, Player0-Score:-2.0, timesteps:71
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:107
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:111
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:99
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:100
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:99
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:103
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:11.0, timesteps:99
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:110
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:99
+Results in game examples/gridphysics/missilecommand.txt, 0.98 , 8.05
+Game played: camelRace
+Level: [Ljava.lang.String;@14ae5a5
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:44
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:48
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:52
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:48
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:55
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:55
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:49
+Results in game examples/gridphysics/camelRace.txt, 1.0 , 1.0
+Game played: seaquest
+Level: [Ljava.lang.String;@14ae5a5
+Result (1->win; 0->lose): Player0:1, Player0-Score:13.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1014.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1018.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1018.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2012.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2031.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:216
+Result (1->win; 0->lose): Player0:1, Player0-Score:1014.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1007.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2013.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2009.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:137
+Result (1->win; 0->lose): Player0:1, Player0-Score:1020.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2014.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2022.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1016.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:16.0, timesteps:395
+Result (1->win; 0->lose): Player0:1, Player0-Score:2022.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:10.0, timesteps:709
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:233
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:348
+Result (1->win; 0->lose): Player0:0, Player0-Score:14.0, timesteps:641
+Result (1->win; 0->lose): Player0:0, Player0-Score:1017.0, timesteps:766
+Result (1->win; 0->lose): Player0:1, Player0-Score:1016.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1014.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1008.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:159
+Result (1->win; 0->lose): Player0:1, Player0-Score:1027.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2017.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1020.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:119
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:118
+Result (1->win; 0->lose): Player0:1, Player0-Score:1022.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:1017.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:29
+Result (1->win; 0->lose): Player0:1, Player0-Score:4009.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5010.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:3014.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4016.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:3006.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:3004.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5016.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7017.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:3012.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4021.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4019.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4005.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4009.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5025.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4012.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7008.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:41
+Result (1->win; 0->lose): Player0:1, Player0-Score:7005.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5007.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7013.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:4009.0, timesteps:624
+Result (1->win; 0->lose): Player0:0, Player0-Score:3010.0, timesteps:727
+Result (1->win; 0->lose): Player0:1, Player0-Score:5004.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5009.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7016.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8017.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6012.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:131
+Result (1->win; 0->lose): Player0:1, Player0-Score:8015.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5007.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1003.0, timesteps:350
+Result (1->win; 0->lose): Player0:1, Player0-Score:8011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:5013.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7002.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6011.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6004.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7006.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1002.0, timesteps:322
+Result (1->win; 0->lose): Player0:1, Player0-Score:8009.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:10006.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:7002.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:101
+Result (1->win; 0->lose): Player0:1, Player0-Score:8007.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:119
+Result (1->win; 0->lose): Player0:1, Player0-Score:6013.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:3002.0, timesteps:739
+Result (1->win; 0->lose): Player0:1, Player0-Score:9008.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:11005.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:10010.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:10008.0, timesteps:1000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8007.0, timesteps:1000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1002.0, timesteps:281
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:68
+Results in game examples/gridphysics/seaquest.txt, 0.77 , 3440.89
+Game played: frogs
+Level: [Ljava.lang.String;@14ae5a5
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:110
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:218
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:618
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:456
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:424
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:204
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:805
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:457
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:54
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:107
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:146
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:476
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:430
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:181
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:278
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:67
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:383
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:113
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:57
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:239
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:41
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:41
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:221
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:208
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:40
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:164
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:34
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:109
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:164
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:335
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:146
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:34
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:284
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:417
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:130
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:377
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:163
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:284
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:159
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:110
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:632
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:218
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:170
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:468
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:127
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:986
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:129
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:363
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:287
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:197
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:180
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:185
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:221
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1244
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:159
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:198
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:387
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:268
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:112
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:71
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:784
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1267
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:856
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:437
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:98
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:379
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:64
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:142
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:152
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:508
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:879
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:373
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:27
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:61
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:208
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:855
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:114
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:472
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:522
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:382
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:142
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:97
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:266
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:103
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:114
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:132
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:92
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:71
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:191
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:45
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:51
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:102
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:116
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:515
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:172
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:54
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:200
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:543
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:180
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:174
+Results in game examples/gridphysics/frogs.txt, 0.19 , -9.81
+Game played: pacman
+Level: [Ljava.lang.String;@14ae5a5
+251
+Too long: 0(exceeding 21ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:29
+111
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:59
+111
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 24ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:35
+113
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:17
+110
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:1
+110
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:89
+110
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 18ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:53
+110
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:17
+110
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Too long: 0(exceeding 22ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:83
+110
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:45
+110
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 24ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:37
+111
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 24ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:74
+110
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:19
+111
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Too long: 0(exceeding 19ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:81
+112
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:34
+123
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 18ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:72
+111
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 22ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:65
+111
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 22ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:33
+110
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:12
+111
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:7
+118
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 13ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:118
+109
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Too long: 0(exceeding 23ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:106
+108
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:82
+109
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:9.0, timesteps:138
+108
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 14ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:39
+109
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:134
+109
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 18ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:68
+109
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:124
+118
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 14ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:32
+108
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 25ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:128
+109
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:61
+108
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Too long: 0(exceeding 20ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:113
+119
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 22ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:98
+108
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 28ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:107
+109
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:80
+109
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Too long: 0(exceeding 17ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:104
+108
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:46
+108
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Too long: 0(exceeding 14ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:14
+113
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:39
+108
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:25
+120
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Too long: 0(exceeding 27ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:54
+120
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:15
+132
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:36
+121
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 13ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:2
+120
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:0
+120
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:50
+120
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Too long: 0(exceeding 14ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:87
+120
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Too long: 0(exceeding 13ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:84
+120
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:9
+125
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:85
+121
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:4
+121
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:79
+121
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 23ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:45
+120
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 29ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:72
+120
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:61
+120
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:20
+120
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:83
+121
+Too long: 0(exceeding 21ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:36
+120
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 17ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:82
+120
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:0
+44
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:20
+44
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:112
+44
+Too long: 0(exceeding 17ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:13
+44
+Too long: 0(exceeding 14ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:4
+44
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:112
+45
+Too long: 0(exceeding 23ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:4
+45
+Too long: 0(exceeding 13ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:1
+45
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:184
+45
+Too long: 0(exceeding 17ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:13
+45
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:128
+44
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:143
+45
+Too long: 0(exceeding 32ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:6
+45
+Too long: 0(exceeding 23ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:3
+45
+Too long: 0(exceeding 25ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:10
+44
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:6
+44
+Result (1->win; 0->lose): Player0:0, Player0-Score:10.0, timesteps:148
+45
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:12
+44
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:10
+45
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:6
+45
+Too long: 0(exceeding 23ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:3
+45
+Too long: 0(exceeding 25ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:10
+44
+Too long: 0(exceeding 15ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:6
+44
+Result (1->win; 0->lose): Player0:0, Player0-Score:10.0, timesteps:148
+45
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:12
+44
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:10
+45
+Controller initialization time out (13).
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:-1
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:61
+120
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:20
+120
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:83
+121
+Too long: 0(exceeding 21ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:36
+120
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 17ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:82
+120
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:0
+44
+Too long: 0(exceeding 16ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:20
+44
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:112
+44
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:84
+120
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:9
+125
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:85
+121
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:4
+121
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Too long: 0(exceeding 26ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:79
+121
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Too long: 0(exceeding 23ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:45
+120
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:45
+120
+/usr/lib/jvm/java-8-oracle/bin/java -javaagent:/snap/intellij-idea-ultimate/148/lib/idea_rt.jar=45021:/snap/intellij-idea-ultimate/148/bin -Dfile.encoding=UTF-8 -classpath "/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar:/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/media/kjw/linux-files/Syncthing/Main/VU/Bachelor Project/KJW-BachelorProject/out/production/gvgai" tracks.singlePlayer.Test
+Controller: tracks.singlePlayer.mrtndwrd.Agent
+Game played: roguelike
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:359
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:83
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:227
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:287
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:103
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:275
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:316
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:207
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:335
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:869
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:389
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:155
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:279
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:75
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:239
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:101
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:234
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:173
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:39
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:43
+Too long: 0(exceeding 24ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:11
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:535
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:186
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:328
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:817
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:1203
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:239
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:101
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:543
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:157
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:139
+Too long: 0(exceeding 12ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:12
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:72
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:35
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:10.0, timesteps:2000
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:33
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:450
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:43
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:183
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:363
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:179
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:895
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:43
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:447
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:561
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:143
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:567
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:451
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1983
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:503
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:55
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:283
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:179
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:131
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:527
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:663
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:311
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:11
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:305
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:11
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:600
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:15
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:1927
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:40
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:1338
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Too long: 0(exceeding 19ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:611
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:27
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:1373
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:51
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:75
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:19
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:347
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:75
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:87
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Too long: 0(exceeding 13ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:393
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:486
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:293
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:197
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 9ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:9.0, timesteps:1548
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:239
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:720
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:245
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:263
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:221
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 10ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:245
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:287
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 7ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:2000
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:215
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:85
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:317
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:551
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Too long: 0(exceeding 11ms): controller disqualified.
+Result (1->win; 0->lose): Player0:-100, Player0-Score:-1000.0, timesteps:100
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:163
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:305
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:353
+Results in game examples/gridphysics/roguelike.txt, 0.0 , -97.84
+Game played: zelda
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:533
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:230
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:300
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1052
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:63
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1438
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:224
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:60
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:116
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:122
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:1371
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1340
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:61
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:48
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:538
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:267
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1961
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:249
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:109
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:105
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:118
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1871
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1732
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:3.0, timesteps:851
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1721
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:981
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:-1.0, timesteps:76
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:99
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1261
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1940
+Result (1->win; 0->lose): Player0:0, Player0-Score:-1.0, timesteps:98
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:116
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:910
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1640
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1038
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:832
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:136
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1808
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1451
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:1874
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1864
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:134
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:132
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:9.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:706
+Result (1->win; 0->lose): Player0:0, Player0-Score:-1.0, timesteps:140
+Result (1->win; 0->lose): Player0:0, Player0-Score:-1.0, timesteps:126
+Result (1->win; 0->lose): Player0:0, Player0-Score:9.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:370
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:580
+Result (1->win; 0->lose): Player0:0, Player0-Score:6.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:80
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:266
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:182
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1151
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:770
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:1310
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:67
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:624
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:2.0, timesteps:71
+Result (1->win; 0->lose): Player0:1, Player0-Score:4.0, timesteps:79
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:-1.0, timesteps:28
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:708
+Result (1->win; 0->lose): Player0:0, Player0-Score:-1.0, timesteps:44
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:108
+Results in game examples/gridphysics/zelda.txt, 0.48 , 5.09
+Game played: chase
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:274
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:1047
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:308
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:282
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:245
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:326
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:234
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:276
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:276
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:178
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:396
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:439
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:184
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:204
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:120
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:227
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:275
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:535
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:129
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:119
+Result (1->win; 0->lose): Player0:1, Player0-Score:8.0, timesteps:160
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:200
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:51
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:87
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:227
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:1776
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:83
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:251
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:210
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:159
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:47
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:431
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:80
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:389
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:288
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:1873
+Result (1->win; 0->lose): Player0:1, Player0-Score:7.0, timesteps:524
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:40
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:380
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:164
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:267
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:133
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:2000
+Result (1->win; 0->lose): Player0:1, Player0-Score:13.0, timesteps:1007
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:109
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:54
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:372
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:95
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:47
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:111
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:142
+Result (1->win; 0->lose): Player0:1, Player0-Score:13.0, timesteps:731
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:1988
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:323
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:1751
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:66
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:55
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:719
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:172
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:101
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:352
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:374
+Result (1->win; 0->lose): Player0:1, Player0-Score:6.0, timesteps:899
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:150
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1082
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:413
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:671
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:283
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:252
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:105
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:363
+Result (1->win; 0->lose): Player0:1, Player0-Score:5.0, timesteps:314
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:539
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:184
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:212
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:31
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:35
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:40
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:71
+Result (1->win; 0->lose): Player0:1, Player0-Score:9.0, timesteps:130
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:268
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:327
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:39
+Result (1->win; 0->lose): Player0:1, Player0-Score:10.0, timesteps:211
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:70
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:684
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:32
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:30
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:54
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:647
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:27
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:466
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:29
+Results in game examples/gridphysics/chase.txt, 0.29 , 3.42
+Game played: eggomania
+Result (1->win; 0->lose): Player0:1, Player0-Score:113.0, timesteps:685
+Result (1->win; 0->lose): Player0:1, Player0-Score:108.0, timesteps:697
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:685
+Result (1->win; 0->lose): Player0:1, Player0-Score:107.0, timesteps:713
+Result (1->win; 0->lose): Player0:1, Player0-Score:24.0, timesteps:1500
+Result (1->win; 0->lose): Player0:1, Player0-Score:111.0, timesteps:721
+Result (1->win; 0->lose): Player0:0, Player0-Score:13.0, timesteps:831
+Result (1->win; 0->lose): Player0:1, Player0-Score:109.0, timesteps:694
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:263
+Result (1->win; 0->lose): Player0:0, Player0-Score:20.0, timesteps:825
+Result (1->win; 0->lose): Player0:1, Player0-Score:20.0, timesteps:1500
+Result (1->win; 0->lose): Player0:0, Player0-Score:15.0, timesteps:873
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:721
+Result (1->win; 0->lose): Player0:1, Player0-Score:109.0, timesteps:503
+Result (1->win; 0->lose): Player0:1, Player0-Score:107.0, timesteps:696
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:256
+Result (1->win; 0->lose): Player0:1, Player0-Score:111.0, timesteps:753
+Result (1->win; 0->lose): Player0:1, Player0-Score:111.0, timesteps:664
+Result (1->win; 0->lose): Player0:0, Player0-Score:11.0, timesteps:855
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:262
+Result (1->win; 0->lose): Player0:1, Player0-Score:111.0, timesteps:227
+Result (1->win; 0->lose): Player0:1, Player0-Score:112.0, timesteps:300
+Result (1->win; 0->lose): Player0:1, Player0-Score:108.0, timesteps:228
+Result (1->win; 0->lose): Player0:1, Player0-Score:108.0, timesteps:301
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:147
+Result (1->win; 0->lose): Player0:1, Player0-Score:117.0, timesteps:299
+Result (1->win; 0->lose): Player0:1, Player0-Score:124.0, timesteps:451
+Result (1->win; 0->lose): Player0:1, Player0-Score:118.0, timesteps:451
+Result (1->win; 0->lose): Player0:1, Player0-Score:107.0, timesteps:297
+Result (1->win; 0->lose): Player0:1, Player0-Score:118.0, timesteps:376
+Result (1->win; 0->lose): Player0:1, Player0-Score:112.0, timesteps:300
+Result (1->win; 0->lose): Player0:1, Player0-Score:112.0, timesteps:294
+Result (1->win; 0->lose): Player0:1, Player0-Score:108.0, timesteps:220
+Result (1->win; 0->lose): Player0:1, Player0-Score:106.0, timesteps:147
+Result (1->win; 0->lose): Player0:1, Player0-Score:112.0, timesteps:224
+Result (1->win; 0->lose): Player0:1, Player0-Score:117.0, timesteps:309
+Result (1->win; 0->lose): Player0:1, Player0-Score:108.0, timesteps:224
+Result (1->win; 0->lose): Player0:1, Player0-Score:117.0, timesteps:451
+Result (1->win; 0->lose): Player0:1, Player0-Score:111.0, timesteps:291
+Result (1->win; 0->lose): Player0:1, Player0-Score:112.0, timesteps:297
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:125
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:57
+Result (1->win; 0->lose): Player0:0, Player0-Score:13.0, timesteps:185
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:97
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:81
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:137
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:109
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:65
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:85
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:73
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:205
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:77
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:165
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:69
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:81
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:145
+Result (1->win; 0->lose): Player0:0, Player0-Score:8.0, timesteps:169
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:145
+Result (1->win; 0->lose): Player0:0, Player0-Score:12.0, timesteps:157
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:117
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:233
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:203
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:179
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:149
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:167
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:155
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:215
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:191
+Result (1->win; 0->lose): Player0:0, Player0-Score:9.0, timesteps:389
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:185
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:191
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:107
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:191
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:167
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:233
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:167
+Result (1->win; 0->lose): Player0:0, Player0-Score:7.0, timesteps:275
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:233
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:179
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:569
+Result (1->win; 0->lose): Player0:0, Player0-Score:107.0, timesteps:225
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:93
+Result (1->win; 0->lose): Player0:0, Player0-Score:14.0, timesteps:273
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:73
+Result (1->win; 0->lose): Player0:0, Player0-Score:109.0, timesteps:243
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:99
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:73
+Result (1->win; 0->lose): Player0:1, Player0-Score:212.0, timesteps:644
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:81
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:105
+Result (1->win; 0->lose): Player0:1, Player0-Score:118.0, timesteps:1500
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:99
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:111
+Result (1->win; 0->lose): Player0:0, Player0-Score:2.0, timesteps:73
+Result (1->win; 0->lose): Player0:1, Player0-Score:112.0, timesteps:1500
+Result (1->win; 0->lose): Player0:0, Player0-Score:5.0, timesteps:111
+Result (1->win; 0->lose): Player0:0, Player0-Score:4.0, timesteps:147
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:61
+Result (1->win; 0->lose): Player0:0, Player0-Score:3.0, timesteps:129
+Result (1->win; 0->lose): Player0:0, Player0-Score:1.0, timesteps:111
+Results in game examples/gridphysics/eggomania.txt, 0.39 , 46.91
+Game played: portals
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:247
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:70
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:595
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:149
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:67
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:131
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:164
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:121
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:115
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:231
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:67
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:45
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:296
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:455
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:196
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:80
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:135
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:148
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:67
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:49
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:10
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:75
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:53
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:33
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:29
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:11
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:728
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:63
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:400
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:57
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1091
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:903
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:56
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1249
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:84
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:453
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:131
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:103
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:74
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:224
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 6ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:251
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:440
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:322
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:63
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:554
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:501
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:135
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:377
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:286
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:72
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 8ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:2000
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 4ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:641
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:71
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:145
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:54
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 5ms): applying ACTION_NIL.
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:69
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:136
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:133
+Overspent: 0(exceeding 1ms): applying ACTION_NIL.
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 2ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:113
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:12
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:11
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:173
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:25
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1969
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:173
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:30
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:31
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:41
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1017
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:40
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:37
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:172
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:20
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:105
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1005
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:1433
+Result (1->win; 0->lose): Player0:1, Player0-Score:1.0, timesteps:19
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:11
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:2000
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:85
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:31
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:21
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:179
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:33
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:369
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:483
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:77
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:47
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:39
+Overspent: 0(exceeding 3ms): applying ACTION_NIL.
+Overspent: 0(exceeding 0ms): applying ACTION_NIL.
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:253
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:49
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:53
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:34
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:159
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:31
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:83
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:368
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:25
+Result (1->win; 0->lose): Player0:0, Player0-Score:0.0, timesteps:23
+Results in game examples/gridphysics/portals.txt, 0.17 , 0.17

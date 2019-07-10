@@ -27,7 +27,7 @@ public class Test {
 		String sampleOMCTSController = "tracks.singlePlayer.mrtndwrd.Agent";
 		String samplepddOMCTSController = "tracks.singlePlayer.pddOmcts.Agent";
 //		String[] controllers = {sampleMCTSController, sampleOMCTSController, samplepddOMCTSController};
-		String[] controllers = {samplepddOMCTSController};
+		String[] controllers = {samplepddOMCTSController, sampleMCTSController};
 
 		//Load available games
 //		String spGamesCollection =  "examples/all_games_sp.csv";
@@ -52,8 +52,8 @@ public class Test {
 		String level1 = "examples/gridphysics/" + games[gameIdx] + "_lvl" + levelIdx +".txt";
 
 		//Game settings
-//		boolean visuals = true;
-//		int seed = new Random().nextInt();
+		boolean visuals = true;
+		int seed = new Random().nextInt();
 
 		// Game and level to play
 //		int gameIdx = 0;
@@ -68,7 +68,7 @@ public class Test {
 						// executed. null if not to save.
 
 		// 1. This starts a game, in a level, played by a human.
-//		ArcadeMachine.playOneGame(game, level1, recordActionsFile, seed);
+		ArcadeMachine.playOneGame(game, level1, recordActionsFile, seed);
 
 		// 2. This plays a game in a level by the controller.
 //		ArcadeMachine.runOneGame(game, level1, visuals, samplepddOMCTSController, recordActionsFile, seed, 0);
@@ -107,57 +107,57 @@ public class Test {
 //		}
 
 		//5. This plays N games, in the first L levels, M times each. Actions to file optional (set saveActions to true).
-		int N = games.length, L = 5, M = 1;
-		String gameName;
-		boolean saveActions = false;
-		String[] levels = new String[L];
-		String[] actionFiles = new String[L*M];
-		for(int i = 0; i < N; ++i)
-		{
-			int actionIdx = 0;
-			game = "examples/gridphysics/" + games[i] + ".txt";;
-			gameName = games[i];
-			for(int j = 0; j < L; ++j){
-				levels[j] = game.replace(gameName, gameName + "_lvl" + j);
-				if(saveActions) for(int k = 0; k < M; ++k)
-				actionFiles[actionIdx++] = "actions_game_" + i + "_level_" + j + "_" + k + ".txt";
-			}
-			ArcadeMachine.runGames(game, levels, M, samplepddOMCTSController, saveActions? actionFiles:null);
-		}
-
-		//6. This plays N games, in the first L levels, M times each, for all controllers in controllers array. Actions to file optional (set saveActions to true).
-//		int N = games.length, L = 5, M = 20;
+//		int N = games.length, L = 1, M = 2;
 //		String gameName;
-//		String controller;
 //		boolean saveActions = false;
 //		String[] levels = new String[L];
 //		String[] actionFiles = new String[L*M];
-//		for (int l = 0; l < controllers.length; l++) {
-//			controller = controllers[l];
-//			System.out.println("Controller: " + controller);
-//
-//			if (controller == sampleMCTSController) {
-//				games = new String[]{"surround", "infection", "missilecommand", "camelRace", "seaquest", "frogs","pacman"};
-//			} else if (controller == sampleOMCTSController) {
-//				games = new String[]{"roguelike","zelda","chase","eggomania","portals"};
-//			} else if (controller == samplepddOMCTSController) {
-//				games = new String[]{"zelda","chase","eggomania","portals","roguelike"};
+//		for(int i = 0; i < N; ++i)
+//		{
+//			int actionIdx = 0;
+//			game = "examples/gridphysics/" + games[i] + ".txt";;
+//			gameName = games[i];
+//			for(int j = 0; j < L; ++j){
+//				levels[j] = game.replace(gameName, gameName + "_lvl" + j);
+//				if(saveActions) for(int k = 0; k < M; ++k)
+//				actionFiles[actionIdx++] = "actions_game_" + i + "_level_" + j + "_" + k + ".txt";
 //			}
-//
-//			for(int i = 0; i < N; ++i)
-//			{
-//				int actionIdx = 0;
-//				game = "examples/gridphysics/" + games[i] + ".txt";
-//				gameName = games[i];
-//				System.out.println("Game played: " + gameName);
-//				for(int j = 0; j < L; ++j){
-//					levels[j] = game.replace(gameName, gameName + "_lvl" + j);
-//					if(saveActions) for(int k = 0; k < M; ++k)
-//						actionFiles[actionIdx++] = "actions_game_" + i + "_level_" + j + "_" + k + ".txt";
-//				}
-//				ArcadeMachine.runGames(game, levels, M, controller, saveActions? actionFiles:null);
-//			}
+//			ArcadeMachine.runGames(game, levels, M, sampleOMCTSController, saveActions? actionFiles:null);
 //		}
+
+		//6. This plays N games, in the first L levels, M times each, for all controllers in controllers array. Actions to file optional (set saveActions to true).
+		int N = games.length, L = 5, M = 20;
+		String gameName;
+		String controller;
+		boolean saveActions = false;
+		String[] levels = new String[L];
+		String[] actionFiles = new String[L*M];
+		for (int l = 0; l < controllers.length; l++) {
+			controller = controllers[l];
+			System.out.println("Controller: " + controller);
+
+			if (controller == sampleMCTSController) {
+				games = new String[]{"surround", "infection", "missilecommand", "camelRace", "seaquest", "frogs","pacman"};
+			} else if (controller == sampleOMCTSController) {
+				games = new String[]{"roguelike","zelda","chase","eggomania","portals"};
+			} else if (controller == samplepddOMCTSController) {
+				games = new String[]{"zelda","chase","eggomania","portals","roguelike"};
+			}
+
+			for(int i = 0; i < N; ++i)
+			{
+				int actionIdx = 0;
+				game = "examples/gridphysics/" + games[i] + ".txt";
+				gameName = games[i];
+				System.out.println("Game played: " + gameName);
+				for(int j = 0; j < L; ++j){
+					levels[j] = game.replace(gameName, gameName + "_lvl" + j);
+					if(saveActions) for(int k = 0; k < M; ++k)
+						actionFiles[actionIdx++] = "actions_game_" + i + "_level_" + j + "_" + k + ".txt";
+				}
+				ArcadeMachine.runGames(game, levels, M, controller, saveActions? actionFiles:null);
+			}
+		}
 
 
     }

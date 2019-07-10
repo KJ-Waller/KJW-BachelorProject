@@ -134,6 +134,8 @@ public abstract class Option implements Serializable
 	protected void setFinished()
 	{
 		this.finished = true;
+		System.out.println(this.toString() + ' ' + this.getStep());
+//		this.toString();
 	}
 
 	protected void readObject(ObjectInputStream aInputStream) 
